@@ -1,8 +1,8 @@
 class Winn < Formula
   desc "A Ruby/Elixir-inspired language that compiles to the BEAM"
   homepage "https://github.com/gregwinn/winn-lang"
-  url "https://github.com/gregwinn/winn-lang/archive/refs/tags/v0.8.0.tar.gz"
-  sha256 "b270d3aa778850c41e9f98ac7925130c069cac5ada0153982d98907de4585f2d"
+  url "https://github.com/gregwinn/winn-lang/archive/refs/tags/v0.8.1.tar.gz"
+  sha256 "30cb3223c6715ead82145b7df95f8a0f3c327dd9319e968cd2136081984d3549"
   license "MIT"
   depends_on "erlang"
   depends_on "rebar3"
